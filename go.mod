@@ -2,7 +2,7 @@ module github.com/uptrace/go-realworld-example-app
 
 go 1.15
 
-// heroku goVersion go1.15
+// +heroku goVersion go1.15
 
 require (
 	github.com/benbjohnson/clock v1.1.0
